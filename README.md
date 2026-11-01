@@ -4,4 +4,4 @@ A translator written in Java. It reads a program in the Shack language from a `.
 
 Built while studying computer systems, to learn how languages are parsed and translated into lower-level code.
 
-The code is in the file named `Shack to hack`.
+The code is in `shack.java`.
